@@ -1,0 +1,14 @@
+__pycache__/
+.DS_Store
+.env
+.env.*
+.mypy_cache/
+.next/
+.orchestration/
+.pytest_cache/
+.venv/
+*.log
+*.pyc
+coverage/
+dist/
+output/
